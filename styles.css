@@ -1,0 +1,33 @@
+.linkhead {
+    color:black;
+    text-decoration: none;
+}
+
+.navbar, p, a, h5, .btn {
+    font-family: 'Caveat', cursive;
+}
+
+.nav-item :hover {
+    color: white;
+}
+
+.dropdown-item:hover {
+    color:black;
+}
+
+.fontsize-p {
+    font-size: 30px;
+}
+
+.head {
+    display: flex;
+}
+
+.margin {
+    margin-left: 20px;
+}
+
+footer {
+    position:absolute;
+    width:100%;
+}
